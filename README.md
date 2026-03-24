@@ -1,5 +1,6 @@
 # Hi, I’m Tanvir Rana 👋
-
+[![Followers](https://img.shields.io/github/followers/tanviiiiir-r?style=flat)](https://github.com/tanviiiiir-r) [![License](https://img.shields.io/github/license/tanviiiiir-r?style=flat)](https://github.com/tanviiiiir-r) [![Website](https://img.shields.io/website?url=https%3A%2F%2Ftanvir.dev&style=flat)](https://tanvir.dev)
+![Followers](https://img.shields.io/github/followers/tanviiiiir-r?style=flat) ![License](https://img.shields.io/github/license/tanviiiiir-r?style=flat) ![Website](https://img.shields.io/website?url=https%3A%2F%2Ftanvir.dev&style=flat)n
 🚀 AI/ML Engineer – Next.js 14, Tailwind, Supabase, TensorFlow, PyTorch, LangChain, Zod, Zustand.
 
 ### 🔥 Highlight projects
